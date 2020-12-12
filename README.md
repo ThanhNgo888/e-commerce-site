@@ -1,2 +1,2 @@
-# MyEcommerceWebSite
-Online Store
+# e-commerce site using React and Netlify
+
